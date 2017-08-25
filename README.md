@@ -2,9 +2,9 @@
 List of demo apps for my [Functions17](https://functions.world) talk on [Apache OpenWhisk](http://openwhisk.incubator.apache.org/) and [IBM Cloud Functions](https://console.bluemix.net/openwhisk/).
 
 ## Slides
-To come.
+[Presentation on SlideShare](https://www.slideshare.net/DanielKrook/building-serverless-applications-with-apache-openwhisk-and-ibm-cloud-functions).
 
-In the meantime, check out this [Five minute intro to open source serverless development with OpenWhisk](https://medium.com/openwhisk/five-minute-intro-to-open-source-serverless-development-with-openwhisk-328b0ebfa160).
+Also check out this [Five minute intro to open source serverless development with OpenWhisk](https://medium.com/openwhisk/five-minute-intro-to-open-source-serverless-development-with-openwhisk-328b0ebfa160).
 
 ## Using Apache OpenWhisk with IBM Cloud Functions
 1. Create a [Bluemix](http://bluemix.net) account.
