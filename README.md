@@ -1,5 +1,5 @@
 # Functions17
-List of demo apps for my [Functions17](https://functions.world) talk on Apache OpenWhisk and IBM Cloud Functions
+List of demo apps for my [Functions17](https://functions.world) talk on [Apache OpenWhisk](http://openwhisk.incubator.apache.org/) and [IBM Cloud Functions](https://console.bluemix.net/openwhisk/).
 
 ## Slides
 To come.
