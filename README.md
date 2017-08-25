@@ -26,7 +26,7 @@ In the meantime, check out this [Five minute intro to open source serverless dev
 - [Awesome OpenWhisk](https://github.com/openwhisk/awesome-openwhisk)
 - [IBM Developer Journeys](https://developer.ibm.com/code/technologies/serverless/ )
 - [Full list of OpenWhisk samples on GitHub](https://github.com/search?q=topic%3Aopenwhisk+org%3AIBM&type=Repositories)
-- [Work with an IBM developer advocate](developer.ibm.com/code/work-with-us)
+- [Work with an IBM developer advocate](https://developer.ibm.com/code/work-with-us)
 
 ## Explore the open source Apache OpenWhisk project
 - [GitHub](https://github.com/apache?q=incubator-openwhisk)
